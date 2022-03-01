@@ -1,0 +1,4 @@
+﻿  Kaynak.cpp
+c:\users\muham\masaüstü\örnek kodlar\c\aylık kazanca göre vergi hesaplayan program\aylık kazanca göre vergi hesaplayan program\kaynak.cpp(15): warning C4476: 'printf' : biçim tanımlayıcıda ' ' bilinmeyen tür alanı karakteri
+c:\users\muham\masaüstü\örnek kodlar\c\aylık kazanca göre vergi hesaplayan program\aylık kazanca göre vergi hesaplayan program\kaynak.cpp(16): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Aylık kazanca göre vergi hesaplayan program.vcxproj -> C:\Users\muham\Masaüstü\ÖRNEK KODLAR\C\Aylık kazanca göre vergi hesaplayan program\Debug\Aylık kazanca göre vergi hesaplayan program.exe
